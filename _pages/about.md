@@ -27,8 +27,8 @@ I am also interested in Process mining, AI, Formal checking, blockchain, and its
 
 
 # 📖 Educations
-- *2019.06 - 2022.10*, [Efrei Paris Panthéon-assas Université]()
-- *2016.09 - 2020.06*, [Southeast University](https://en.wikipedia.org/wiki/Southeast_University), School of Information Engineering
+- *2019.06 - 2022.10*, Engineering Degree (Titre d'ingénieur) 🎓 @[Efrei Paris Panthéon-assas Université](efrei.fr), Majoring Information System and cloud service.
+- *2016.09 - 2020.06*, Bachelor of Information Engineering 🎓 @[Southeast University](https://en.wikipedia.org/wiki/Southeast_University), School of Information Engineering.
 
 
 # 🎖 Honors and Awards
