@@ -30,15 +30,22 @@ redirect_from:
 
 # 📖 Educations 
 - *2019.06 - 2022.10*, Master Degree (Titre d'ingénieur) 🎓 @[Efrei Paris Panthéon-assas Université](efrei.fr)
-  - Major in Information System and Cloud Engineering   ([Courseworks](/#-Courseworks))  
+  - Major in Information System and Cloud Engineering (See coursework below) 
 - *2016.09 - 2020.06*, Bachelor of Information Engineering 🎓 @[Southeast University](https://en.wikipedia.org/wiki/Southeast_University)
-  - School of Information Engineering.    ([Courseworks](/#-Courseworks))
+  - School of Information Engineering.   
 
 
-# 💻 Internships
+# 💻 Experience
 - *2022.5 - 2022.10*, Research Assistant @[Efrei Paris Research Lab](https://eng.efrei.fr/allianstic-research-laboratory/) Working on Petri-net based Formal checking, and Process mining.
-- *2020.9 - 2021.9*, Research Assistant @ [PML Lab](https://www.pmlabs.com.cn/) (紫金山实验室，南京) - National Cybersecurity Lab of China. Mainly focusing on WSN Security
+  
+  - Literature Review: Conducted extensive literature reviews on topics including Petri nets, Service substitution, and composition. Synthesized and presented the state-of-the-art in these areas, while developing innovative research methodologies for further investigation.
+  - Implement Experiment: Actively participated in a research project: [ObsGraphTool](https://github.com/ObsGraphTool/Version2022), utilizing C++ programming language to implement the functionality of a Service Observation Graph (SOG) for Service substitution and composition. Conducted experiments and applied novel algorithms to enhance the system's performance according to given papers.
+  - Learning: Acquired knowledge regarding #Process Mining
 
+- *2020.9 - 2021.9*, Research Assistant @ [PML Lab](https://www.pmlabs.com.cn/) (紫金山实验室，南京) - National Cybersecurity Lab of China. Mainly focusing on WSN Security
+  - Translated a 300-page manual, "Practical Contiki", an IoT experimenting platform manual from English to Chinese. Additionally, successfully set up the experimenting environment (C/Linux) for lab members.
+  - Actively participated in weekly research activities such as meetings and seminars, focusing on Access Control and Routing Protocols in a Wireless Sensor Network (WSN) environment. Delivered a presentation on Access Control based on a comprehensive review of relevant papers.
+  - Communication and Collaboration: Took responsibility for contacting partner facilities/schools both domestically and internationally. Organized multiple academic conferences, utilizing online and offline platforms.
 # 🎖 Honors and Awards
 - *2019* EFREI Paris Foreign Student Scholar Ship (20%)
 - *2019* National College English Competition - First Prize
