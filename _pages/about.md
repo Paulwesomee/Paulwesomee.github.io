@@ -47,7 +47,15 @@ redirect_from:
 
 # 📝 Coursework
 ## Master Programme
-[!Master Coursework](https://github.com/Paulwesomee/Paulwesomee.github.io/blob/main/_pages/efrei.png "EFREI Paris Coursework")
+
+  <br>
+    <img src="_pages/efrei.png" width="100%"/>
+    <br>
+    
 ## Undergraduate
-[!Undergrad Coursework](https://github.com/Paulwesomee/Paulwesomee.github.io/blob/main/_pages/courseworkseu.png "UndergradCoursework")
+
+   <br>
+    <img src="_pages/courseworkseu.png" width="100%"/>
+    <br>
+
 
