@@ -41,5 +41,5 @@ I am also interested in Process mining, AI, Formal checking, blockchain, and its
 - *2022.5 - 2022.10*, Research Assistant @[Efrei Paris Research Lab](https://eng.efrei.fr/allianstic-research-laboratory/) Working on Petri-net based Formal checking, and Process mining.
 - *2020.9 - 2021.9*, Research Assistant @ [PML Lab](https://www.pmlabs.com.cn/) (紫金山实验室，南京) - National Cybersecurity Lab of China. Mainly focusing on WSN Security
 
-- # 📝 Publications 
+ # 📝 Publications 
 - Incoming...
