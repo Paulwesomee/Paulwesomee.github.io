@@ -27,14 +27,14 @@ redirect_from:
 - *2023.06*: &nbsp;🎉 Return to Europe for graduation ceremony and future opportunities! 
 - *2022.10*: &nbsp;🎉 Finished my engineering degree (Diplome d'ingénieur) @ EFREI Paris！
 
-
+<span class='anchor' id='educations'></span>
 # 📖 Educations 
 - *2019.06 - 2022.10*, Master Degree (Titre d'ingénieur) 🎓 @[Efrei Paris Panthéon-assas Université](efrei.fr)
   - Major in Information System and Cloud Engineering (See coursework below) 
 - *2016.09 - 2020.06*, Bachelor of Information Engineering 🎓 @[Southeast University](https://en.wikipedia.org/wiki/Southeast_University)
   - School of Information Engineering.   
 
-
+<span class='anchor' id='Experience'></span>
 # 💻 Experience
 - *2022.5 - 2022.10*, Research Assistant @[Efrei Paris Research Lab](https://eng.efrei.fr/allianstic-research-laboratory/) Working on Petri-net based Formal checking, and Process mining.
   
@@ -46,12 +46,14 @@ redirect_from:
   - Translated a 300-page manual, "Practical Contiki", an IoT experimenting platform manual from English to Chinese. Additionally, successfully set up the experimenting environment (C/Linux) for lab members.
   - Actively participated in weekly research activities such as meetings and seminars, focusing on Access Control and Routing Protocols in a Wireless Sensor Network (WSN) environment. Delivered a presentation on Access Control based on a comprehensive review of relevant papers.
   - Communication and Collaboration: Took responsibility for contacting partner facilities/schools both domestically and internationally. Organized multiple academic conferences, utilizing online and offline platforms.
+
+<span class='anchor' id='publications'></span>
 # 🎖 Honors and Awards
 - *2019* EFREI Paris Foreign Student Scholar Ship (20%)
 - *2019* National College English Competition - First Prize
 
 
-
+<span class='anchor' id='Coursework'></span>
 # 📝 Coursework
 ## Master Programme
 
