@@ -10,10 +10,10 @@ main:
     url: "/#-internships"
 
   - title: "Coursework"
-    url: "/#-Coursework"
+    url: "/#-coursework"
 
   - title: "Research Experience"
-    url: "/#-Experience"
+    url: "/#-experience"
 
   - title: "Publications"
     url: "/#-publications"
