@@ -43,7 +43,7 @@ redirect_from:
   - Learning: Acquired knowledge regarding **#Process Mining**
 
 - *2020.9 - 2021.9*, Research Assistant @ [PML Lab](https://www.pmlabs.com.cn/) (紫金山实验室，南京) - National Cybersecurity Lab of China. Mainly focusing on WSN Security
-  - Translated a 300-page manual, "Practical Contiki", an IoT experimenting platform manual from English to Chinese. Additionally, successfully set up the **experimenting environment (C/Linux) **for lab members.
+  - Translated a 300-page manual, "Practical Contiki", an IoT experimenting platform manual from English to Chinese. Additionally, successfully set up the **experimenting environment (C/Linux)** for lab members.
   - Actively participated in weekly research activities such as meetings and seminars, focusing on **Access Control and Routing Protocols in a Wireless Sensor Network (WSN) environment**. Delivered a presentation on Access Control based on a comprehensive review of relevant papers.
   - Communication and Collaboration: Took responsibility for contacting partner facilities/schools both domestically and internationally. Organized multiple academic conferences, utilizing online and offline platforms.
 
