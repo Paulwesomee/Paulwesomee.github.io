@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 My research interest includes Intrusion Detection Systems (IDS) and abnormal behavior detection among Wireless Sensor Networks (WSN) and IoT context. 
-I am also interested in Process mining, AI, Formal checking, blockchain, and its application in Business Intelligence(BI), Industrial management, digital twins, and other contexts such as Industry 4.0/5.0 and smart Hospital, from a security or optimization angle.
+I am also interested in Process mining, AI, Formal checking, blockchain, and its application in Business Intelligence(BI), Industrial management, Digital twins, and other contexts such as Industry 4.0/5.0 and Smart hospital, from a security or optimization angle.
 
 
 # 🔥 News
