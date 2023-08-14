@@ -18,10 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # 👀 About me
 
-- 🔬My research interest includes Intrusion Detection Systems (IDS) and abnormal behavior detection among Wireless Sensor Networks (WSN) and IoT context. 
-- 🔬I am also interested in Process mining, AI, Formal checking, blockchain, and its application in Business Intelligence(BI), Industrial management, Digital twins, and other contexts such as Industry 4.0/5.0 and Smart hospital, from a security or optimization angle.
-- 🗣️I speak advanced English (C1-C2 level), and I also have an intermediate level of French. I have been working as an English teacher for Chinese students for 3 years and that supports most of my tuition fees.
-
+A digital transformation engineer, a research enthusiast on iIoT (cloud/edge network), process mining, business intelligence, and blockchain technology, and finally, an amateur English/IT Tech teacher.
 
 # 🔥 News
 - *2023.06*: &nbsp;🎉 Return to Europe for graduation ceremony and future opportunities! 
