@@ -26,7 +26,7 @@ A digital transformation engineer, a research enthusiast on iIoT (cloud/edge net
 
 <span class='anchor' id='educations'></span>
 # 📖 Educations 
-- *2019.06 - 2022.10*, Master Degree (Titre d'ingénieur) 🎓 @[Efrei Paris Panthéon-assas Université](efrei.fr)
+- *2019.06 - 2022.10*, Master Degree (Titre d'ingénieur) 🎓 @[Efrei Paris Panthéon-assas Université](https://www.efrei.fr/ecole-ingenieur/classements/)
   - Major in Information Systems and Cloud Engineering (See coursework below) 
 - *2016.09 - 2020.06*, Bachelor of Information Engineering 🎓 @[Southeast University](https://en.wikipedia.org/wiki/Southeast_University)
   - School of Information Engineering.   
